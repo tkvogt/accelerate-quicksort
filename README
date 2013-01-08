@@ -1,0 +1,14 @@
+This is a parallel implementation of Quicksort with scan primitives according to the paper "Scans as Primitive Parallel Operations" by Blelloch.
+
+Instructions to test this code:
+-------------------------------
+
+cabal install accelerate
+ghci Quicksort.hs
+
+To Do
+-----------------
+- calculation of the new segments in segmentedSplit
+- overall test
+- speed test
+

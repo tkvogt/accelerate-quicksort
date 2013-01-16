@@ -8,7 +8,5 @@ ghci Quicksort.hs
 
 To Do
 -----------------
-- calculation of the new segments in segmentedSplit
-- overall test
 - speed test
 
